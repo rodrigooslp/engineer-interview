@@ -19,17 +19,7 @@ function App() {
           </div>
         </div>
       </header>
-      <main
-        style={{
-          width: 'calc(100vw - 50px)',
-          margin: '0 auto',
-          maxHeight: '100%',
-          background: '#fcfcfc',
-          border: '1px solid #000000',
-          boxSizing: 'border-box',
-          boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)',
-          borderRadius: 40,
-        }}>
+      <main>
         <ChallengeComponent />
       </main>
     </div>
