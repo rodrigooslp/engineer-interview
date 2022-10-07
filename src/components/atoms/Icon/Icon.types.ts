@@ -1,4 +1,4 @@
-import { GenericProps } from "../../shared";
+import { GenericProps } from '../../../shared';
 
 export type IconName = 'arrow-left' | 'arrow-right' | 'plus';
 
