@@ -1,3 +1,15 @@
+# Intro
+The components for this app were created following the Atomic Design concept. It focuses heavily on composition instead of creating a single complex piece of application. Storybook is a powerful tool for scenarios like these. By using their handy testing integration, I was able to create simple tests that use the stories as test cases. This gave us a surface level of testing coverage that would be a good starting point if this was a real world application.
+
+## Next Steps
+If this was a real app, the next areas to improve on would be on accessibility and localization. Also, improve the unit test coverage and implement e2e testing with a tool like Cypress.
+
+## Resources
+- [You can see a demo of the app here](https://6340a80dfc865715a816d7c2--jovial-crepe-ab08d3.netlify.app/).
+- [You can browse the components for the app here.](https://6340a9ee9a2db31a8bd9db4f--glittery-tapioca-7d72d5.netlify.app).
+
+# Original README
+
 ## Video Intro
 https://www.loom.com/share/3df7fcb5424644638b00724cb178e2ff
 
