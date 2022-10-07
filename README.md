@@ -1,5 +1,7 @@
 # Intro
-The components for this app were created following the Atomic Design concept. It focuses heavily on composition instead of creating a single complex piece of application. Storybook is a powerful tool for scenarios like these. By using their handy testing integration, I was able to create simple tests that use the stories as test cases. This gave us a surface level of testing coverage that would be a good starting point if this was a real world application.
+The components for this app were created following the Atomic Design concept. It focuses heavily on composition instead of creating a single complex piece of application. Storybook is a powerful tool for scenarios like these.
+
+By using their handy testing integration, I was able to create simple tests that use the stories as test cases. This gave us a surface level of testing coverage that would be a good starting point if this was a real world application.
 
 ## Next Steps
 If this was a real app, the next areas to improve on would be on accessibility and localization. Also, improve the unit test coverage and implement e2e testing with a tool like Cypress.
